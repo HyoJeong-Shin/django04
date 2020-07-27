@@ -1,5 +1,10 @@
 # https://dsstagram0728.herokuapp.com/
 
+### superuser
+
+id: u55824
+pw: 1234
+
 
 # six import error
 
